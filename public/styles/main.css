@@ -1,0 +1,26 @@
+body {
+  background-color: blanchedalmond;
+}
+
+li {
+  list-style-type: none;
+}
+
+button {
+  width: 170px;
+}
+
+.btn-primary {
+  background-color: #1f6807;
+  border-color: #154406;
+}
+
+.btn-primary:hover {
+  background-color: #154406;
+  border-color: #154406;
+}
+
+.btn-primary:active:focus {
+  background-color: #1f6807;
+  border-color: #154406;
+}
